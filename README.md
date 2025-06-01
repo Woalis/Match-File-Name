@@ -12,6 +12,9 @@ There are two buttons:
 - Run: Starts the renaming process.
 - Clear: Clears the fields.
 
+### Compatibility
+This was implimented on Windows 11. According to ChatGPT, all that is necessary is Windows PowerShell and PowerShell 5.1+ that supports WinForms.
+
 ## 📜 Why?
 I had a need to add associated data with a file, but the file name of the second file would end up different than the first. To make it easier to associate them together, I wanted to name them the same and have the modified dates the same. This makes file sorting in a browser easier.
 
