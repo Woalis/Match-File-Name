@@ -16,6 +16,6 @@ There are two buttons:
 I had a need to add associated data with a file, but the file name of the second file would end up different than the first. To make it easier to associate them together, I wanted to name them the same and have the modified dates the same. This makes file sorting in a browser easier.
 
 ## 📝 License
-The Batch script code was shared by [Daniel Schroeder](https://github.com/deadlydog) in a really educational [blog post](https://blog.danskingdom.com/allow-others-to-run-your-powershell-scripts-from-a-batch-file-they-will-love-you-for-it/) [under](https://blog.danskingdom.com/about/#-license) the [Creative Commons 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+The Batch script code was shared by [Daniel Schroeder](https://github.com/deadlydog) in a really educational [blog post](https://blog.danskingdom.com/allow-others-to-run-your-powershell-scripts-from-a-batch-file-they-will-love-you-for-it/) [under](https://blog.danskingdom.com/about/#-license) the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 The PowerShell script was developed in conjunction with ChatGPT.
